@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1579135444 source:g:\fundamentos da programação\projeto\projetoc_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+
