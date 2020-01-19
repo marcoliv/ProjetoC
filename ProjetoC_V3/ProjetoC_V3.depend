@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1579395296 source:c:\users\pedro\desktop\projetoc_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+
+1579396270 source:e:\fundamentos da programação\projeto\projetoc_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+
+1579403014 source:c:\users\marco\desktop\projetoc_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+
